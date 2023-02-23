@@ -1,1 +1,1 @@
-Simple shell collaboration
+Simple shell collaboration between Ezebillion and Gmcommunications2020
