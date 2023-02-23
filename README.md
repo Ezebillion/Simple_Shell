@@ -1,1 +1,1 @@
-Collaboration 0x16.c simple shell project
+0x16.c collaboration project for simple shell project
